@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/mjmeena950/saini-txt-direct",
-    "success_url": "https://github.com/mjmeena950/saini-txt-direct",
+    "repository": "ttps://www.github.com/nikhilsainiop/saini-txt-direct",
+    "success_url": "ttps://www.github.com/nikhilsainiop/saini-txt-direct",
     "stack": "heroku-24",
     "env": {
         "API_ID": {
